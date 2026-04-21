@@ -331,16 +331,16 @@ button:hover {
 .glass-card { border-radius: 1rem; }
 
 .bg-green-500 { background-color: #22c55e; }
-.bg-red-500\\/10 { background-color: rgba(239, 68, 68, 0.1); }
+.bg-red-500\/10 { background-color: rgba(239, 68, 68, 0.1); }
 
 @media (min-width: 768px) {
-  .md\\:flex-row { flex-direction: row; }
-  .md\\:flex-col { flex-direction: column; }
-  .md\\:items-center { align-items: center; }
-  .md\\:w-auto { width: auto; }
-  .md\\:mt-0 { margin-top: 0; }
-  .md\\:pt-0 { padding-top: 0; }
-  .md\\:border-t-0 { border-top: 0; }
+  .md\:flex-row { flex-direction: row; }
+  .md\:flex-col { flex-direction: column; }
+  .md\:items-center { align-items: center; }
+  .md\:w-auto { width: auto; }
+  .md\:mt-0 { margin-top: 0; }
+  .md\:pt-0 { padding-top: 0; }
+  .md\:border-t-0 { border-top: 0; }
 }
 
 /* Grid column-2 for small */
